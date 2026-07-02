@@ -1,0 +1,13 @@
+factory_floor,machine_type,total_monitored_hours,total_anomalies_detected,running_avg_temperature
+Floor A,CNC Milling Machine,3600,4,50.13
+Floor A,Heavy Duty Compressor,5760,11,65.1
+Floor A,High-Speed Turbine,3600,11,75.12
+Floor A,Industrial Robotic Arm,2160,4,49.99
+Floor B,CNC Milling Machine,2880,9,50.05
+Floor B,Heavy Duty Compressor,720,3,65.08
+Floor B,High-Speed Turbine,2160,5,75.07
+Floor B,Industrial Robotic Arm,2160,5,50.09
+Floor C,CNC Milling Machine,5040,4,49.97
+Floor C,Heavy Duty Compressor,2160,3,65.03
+Floor C,High-Speed Turbine,2880,7,75.07
+Floor C,Industrial Robotic Arm,2880,5,50.0
